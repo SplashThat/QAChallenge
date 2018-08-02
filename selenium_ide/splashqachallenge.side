@@ -1,0 +1,26 @@
+{
+  "id": "a71a5940-c726-4c7b-9bb3-da6b1cf0f8dd",
+  "name": "Splash QA Challenge",
+  "url": "http://splashthat.com",
+  "tests": [{
+    "id": "bb8084fc-4eb9-42e4-b55e-338a874ad5a4",
+    "name": "login",
+    "commands": [{
+      "id": "2a53dc7b-afd0-4a9d-be24-16699bddefaa",
+      "comment": "Compile your script here",
+      "command": "",
+      "target": "",
+      "value": ""
+    }]
+  }],
+  "suites": [{
+    "id": "ddcbd3c5-aec7-4176-ab87-88f071a3a98d",
+    "name": "Default Suite",
+    "parallel": false,
+    "timeout": 300,
+    "tests": ["bb8084fc-4eb9-42e4-b55e-338a874ad5a4"]
+  }],
+  "urls": ["http://splashthat.com/"],
+  "plugins": [],
+  "version": "1.0"
+}
