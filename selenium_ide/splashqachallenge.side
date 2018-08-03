@@ -1,7 +1,7 @@
 {
   "id": "a71a5940-c726-4c7b-9bb3-da6b1cf0f8dd",
   "name": "Splash QA Challenge",
-  "url": "http://splashthat.com",
+  "url": "https://splashthat.com",
   "tests": [{
     "id": "bb8084fc-4eb9-42e4-b55e-338a874ad5a4",
     "name": "login",

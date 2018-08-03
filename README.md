@@ -4,11 +4,11 @@ Welcome to the Splash QA coding challenge. This challenge is not meant to be lon
 
 ## Challenge Description
 
-Using Selenium, implement an automated test suite to cover our login flow. Use this account to login:
+Using Selenium, implement an automated test suite to cover our login flow. Here is the login page URL: `https://splashthat.com/login`. Use this account to login:
 * Username: qacandidate@splashthat.com
 * Password: testingislife
 
-You are free to disregard the Facebook login feature. For development, you can use either the Selenium IDE or Selenium WebDriver in Python, Java, or Ruby. This repository provides you with barebones scripts to get started with any of those.
+You are free to disregard the Facebook login feature. For development, you can use either the Selenium IDE or Selenium WebDriver in Python or Ruby. This repository provides you with barebones scripts to get started with any of those.
 
 ## Getting Started
 1. *Fork this Repository*&mdash;Don't worry! Your fork will remain private in your GitHub account.
