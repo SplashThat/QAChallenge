@@ -10,16 +10,14 @@ Using Selenium, implement an automated test suite to cover our login flow. Here 
 
 You are free to disregard the Facebook login feature. For development, you can use either the Selenium IDE or Selenium WebDriver in Python or Ruby. This repository provides you with barebones scripts to get started with any of those.
 
-## Getting Started
-1. *Fork this Repository*&mdash;Don't worry! Your fork will remain private in your GitHub account.
-2. *Add Collaborators.* Go to `Settings > Collaborators & Teams` and add the Splash team: @stephanie-splash and @greggilbert
-3. *Submit your solution.* You will be completing the challenge in the forked repo and sending a link to your repo when you're finished. Avoid opening pull requests.
-
 ## Setup Instructions
 1. Download the Selenium IDE or WebDriver Language Bindings of your choosing here: https://www.seleniumhq.org/download/#selenium_ide
 2. A) If using the IDE, open up the `splashqachallenge.side` project in the selenium_ide folder
 <br /> B) If using the Webdriver, open the text editor of your choice and navigate to the folder that corresponds to the language of your choice
 3. Have fun!
+
+## Submitting your work
+You may submit your work via zip via the Greenhouse link that was included in the email directing you to this test, or you may upload your code to GitHub as a private repository and *add Splash Collaborators.* Go to `Settings > Collaborators & Teams` and add the Splash team: @stephanie-splash and @greggilbert
 
 ## Challenge Goals
 
