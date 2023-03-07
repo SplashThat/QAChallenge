@@ -4,11 +4,23 @@ Welcome to the Splash QA coding challenge. This challenge is not meant to be lon
 
 ## Challenge Description
 
-Using Selenium, implement an automated test suite to cover our login flow. Here is the login page URL: `https://splashthat.com/login`. Use this account to login:
-* Username: qacandidate@splashthat.com
-* Password: testingislife
+Using Selenium, implement an automated test suite to cover our login and sign up flow. Here is the login page URL: `https://splashthat.com/login`.
 
-You are free to disregard the Facebook login feature. For development, you can use either the Selenium IDE or Selenium WebDriver in Python or Ruby. This repository provides you with barebones scripts to get started with any of those.
+For development, you should use Selenium WebDriver in Python or Java. This repository provides you with bare-bones scripts to get started with any of those.
+
+## Who are we looking to join to our team
+
+At Splash we love our values, and we look for people who use these values to be the best version of themselves
+* __Take Care__: We want you to put your oxygen mask on first
+* __Co-create__: We celebrate our ability to bring together diverse people and great minds around a shared purpose.
+* __Be Real__: We take pride in being our true, unconventional and authentic selves.
+* __Stay Curious__: Always be asking; we grow through our compassion and curiosity.
+* __Find the Fun__: Because holy sh*t, we're alive!
+* __Show Up__: We greet each moment with energy, courage, and a fresh perspective.
+* __Love the details__: We know small things, make a big difference.
+
+In the QA team, we welcome highly skilled and proactive people who want to help the teams set up the highest bar in quality, automate the best tests and coach the team to meet their best in terms of quality.
+
 
 ## Setup Instructions
 1. Download the Selenium IDE or WebDriver Language Bindings of your choosing here: https://www.seleniumhq.org/download/#selenium_ide
@@ -17,8 +29,8 @@ You are free to disregard the Facebook login feature. For development, you can u
 3. Have fun!
 
 ## Submitting your work
-You may submit your work via zip via the Greenhouse link that was included in the email directing you to this test, or you may upload your code to GitHub as a private repository and *add Splash Collaborators.* Go to `Settings > Collaborators & Teams` and add the Splash team: @stephanie-splash and @greggilbert
+You may submit your work via Github, uploading your code to GitHub as a private repository and *add Splash Collaborators.* Go to `Settings > Collaborators & Teams` and add the Splash team: @cupeiro-splash, @laurapzc, @naziazafor and @samsplashqa
 
 ## Challenge Goals
 
-We'll go over your challenge during your onsite interview, so make sure you produce something you're proud of and be ready to explain the methodoligy used to develop the test.
+We'll go over your challenge during your onsite interview, so make sure you produce something you're proud of and be ready to explain the methodology used to develop the test.
