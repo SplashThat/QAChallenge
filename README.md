@@ -29,9 +29,8 @@ This repository provides you with bare-bones scripts to get started with any of 
 Using python request library provide automated tests for API to cover POST, GET, UPDATE AND DELETE on an endpoint. Use https://crudcrud.com/ to create your APIs that can be used for CRUD operations in your tests.
 
 ## Setup Instructions
-1. Download the Selenium IDE or WebDriver Language Bindings of your choosing here: https://www.seleniumhq.org/download/#selenium_ide
-2. A) If using the IDE, open up the `splashqachallenge.side` project in the selenium_ide folder
-<br /> B) If using the Webdriver, open the text editor of your choice and navigate to the folder that corresponds to the language of your choice
+1. Download the Selenium WebDriver Language Bindings of your choosing here: https://www.seleniumhq.org/download/#selenium_ide
+2. Open the text editor of your choice and navigate to the folder that corresponds to the language of your choice
 3. Have fun!
 
 ## Submitting your work
