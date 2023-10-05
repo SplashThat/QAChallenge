@@ -16,7 +16,7 @@ In the QA team, we welcome highly skilled and proactive people who want to help 
 the best tests and coach the team to meet their best in terms of quality.
 
 ## Challenge Description
-Please, create a test plan with the test cases you think should be covered for the login and the inventory view of the page. You don't need to automate all of them, just the ones that you consider more important or critical in this scenario. The other ones can left mentioned on a testplan doc, or commented in the code. You decide how much want to share about your automation skills!
+Please, create a test plan with the test cases you think should be covered for the login and the inventory view of the page. You don't need to automate all of them, just the ones that you consider more important or critical in this scenario. The other ones can be left mentioned on a testplan doc, or commented in the code. Up to you to decide how much you want to share about your automation skills!
 #find-the-fun #love-the-details
 
 ### Selenium tests
