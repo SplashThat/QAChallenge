@@ -16,14 +16,13 @@ In the QA team, we welcome highly skilled and proactive people who want to help 
 the best tests and coach the team to meet their best in terms of quality.
 
 ## Challenge Description
-Please, create a test plan with the test cases you think should be covered in this page. You don't need to automate all of them, just the ones that you consider more important oor critical in this scenario.
+Please, create a test plan with the test cases you think should be covered the login and the inventory view of the page. You don't need to automate all of them, just the ones that you consider more important or critical in this scenario. The other ones can left mentioned on a testplan doc, or commented in the code. You decide how much want to share about your automation skills!
 #find-the-fun #love-the-details
 
 ### Selenium tests
-Using Selenium, implement an automated test suite to cover our login and sign up flow. Here is the login page URL: `https://splashthat.com/login`.
+Using Selenium, implement an automated test suite to cover the login page and the inventory page of the Saucedemo web . Here is the login page URL: `https://www.saucedemo.com/`.
 
 For development, you should use Selenium WebDriver in Python or Java. We recommend using Python because it's the easiest to set up, and it's the language we use for Selenium tests right now but, feel free to choose the language you are most comfortable with.
-This repository provides you with bare-bones scripts to get started with any of those.
 
 ### API testing
 Using python request library provide automated tests for API to cover POST, GET, UPDATE AND DELETE on an endpoint. Use https://crudcrud.com/ to create your APIs that can be used for CRUD operations in your tests.
@@ -31,7 +30,8 @@ Using python request library provide automated tests for API to cover POST, GET,
 ## Setup Instructions
 1. Download the Selenium WebDriver Language Bindings of your choosing here: https://www.seleniumhq.org/download/#selenium_ide
 2. Open the text editor of your choice and navigate to the folder that corresponds to the language of your choice
-3. Have fun!
+3. Remember updating the README with you installation requirements
+4. Let's automate and have fun!
 
 ## Submitting your work
 You may submit your work via Github, uploading your code to GitHub as a private repository and *add Splash Collaborators.* Go to `Settings > Collaborators & Teams` and add the Splash team: @cupeiro-splash, @laurapzc, @naziazafor and @samsplashqa
